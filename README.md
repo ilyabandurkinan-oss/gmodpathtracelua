@@ -1,8 +1,8 @@
 # gmodpathtracelua
-pathtracting for vistracelibrary
-Доп инфа: https://github.com/Derpius/VisTrace
-PLS SUBSCRIBE!!!: https://steamcommunity.com/sharedfiles/filedetails/?id=2531198548
-Важно: Проект заброшен и больше не будет обновляться. Код здесь довольно специфический мои костыли / как смог поэтому делайте с ним всё, что хотите: форкайте, переписывайте исправляйте, создавайте свои версии и т.д. Поддержки и ответов на вопросы не ждите всё на ваше усмотрение
+# pathtracting for vistracelibrary
+# Доп инфа: https://github.com/Derpius/VisTrace
+# PLS SUBSCRIBE!!!: https://steamcommunity.com/sharedfiles/filedetails/?id=2531198548
+ ## Важно: Проект заброшен и больше не будет обновляться. Код здесь довольно специфический мои костыли / как смог поэтому делайте с ним всё, что хотите: форкайте, переписывайте исправляйте, создавайте свои версии и т.д. Поддержки и ответов на вопросы не ждите всё на ваше усмотрение
  Это Lua-скрипт для включения path tracing в Garry's Mod через библиотеку VisTrace.
  ТРЕБОВАНИЯ
  Garry's Mod x64
