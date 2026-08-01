@@ -13,7 +13,7 @@ HDR изображения
 как?
 Откройте Steam Workshop для Garry's Mod
 Найдите "VisTrace - Raytracing Library"
-Нажмите "Подписаться" (Subscribe)
+Нажмите Подписаться
 Дождитесь загрузки
 Скачайте последнюю версию из Releases
 Распакуйте архив в папку common
